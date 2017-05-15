@@ -1,0 +1,39 @@
+{
+  "name": "granite-qrcode-generator",
+  "authors": [
+    "Horacio Gonzalez <horacio.gonzalez@gmail.com>"
+  ],
+  "description": "A webcomponent to render a QR Code",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "lostinbrittany",
+    "qrcode"
+  ],
+  "main": "granite-qrcode-generator.html",
+  "license": "MIT",
+  "homepage": "https://github.com/LostInBrittany/granite-qrcode-generator",
+  "ignore": [],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.5.0",
+    "qrjs": "lifthrasiir/qr.js#^v0.0.20110119"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.1.6",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.2.3",
+    "paper-styles": "PolymerElements/paper-styles#^1.1.4",
+    "test-fixture": "PolymerElements/test-fixture#^1.1.1",
+    "web-component-tester": "^4.3.0"
+  },
+  "_release": "af82ccd3b8",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "af82ccd3b8e48337afe4615af8417f330dab6c3f"
+  },
+  "_source": "https://github.com/JeffLeFoll/granite-qrcode-generator.git",
+  "_target": "master",
+  "_originalSource": "JeffLeFoll/granite-qrcode-generator",
+  "_direct": true
+}
